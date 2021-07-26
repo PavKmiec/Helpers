@@ -1,2 +1,4 @@
 # Helpers
-Collection of utilities and scripts 
+Collection of utilities, scripts for use withing various projects.
+
+
