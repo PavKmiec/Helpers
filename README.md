@@ -1,5 +1,5 @@
 # Helpers
-Collection of utilities, scripts for use withing various projects.
+Collection of utilities, scripts for use within various projects.
 
 Folders:
 
