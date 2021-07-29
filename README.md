@@ -10,5 +10,5 @@ Folders:
 - [qr-code](https://github.com/PavKmiec/Helpers/tree/main/qr-code):
   Python QR-code generator
   
--haystack:
-  Python script to check for prime numbers in a text file containing lnes of numbers and return any non-primes
+- [haystack](https://github.com/PavKmiec/Helpers/tree/main/haystack):
+  Python script to check for prime numbers in a text file containing lines of numbers and return any non-primes
