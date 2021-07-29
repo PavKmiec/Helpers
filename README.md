@@ -8,14 +8,7 @@ Folders:
   useful for internet riddles
 
 - [qr-code](https://github.com/PavKmiec/Helpers/tree/main/qr-code):
-  QR-code generator
+  Python QR-code generator
   
 -haystack:
-  Script to check for prime numbers in a text file
-  and return a list of non prime numbers (if any).
-  
-  
-  
-
-
-
+  Python script to check for prime numbers in a text file containing lnes of numbers and return any non-primes
