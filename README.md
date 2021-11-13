@@ -21,4 +21,8 @@ Folders:
 
   Python QR-code generator.
   
+- [digital-ocean-automation](https://github.com/PavKmiec/Helpers/tree/main/digital_ocean_automation):
+  
+  Python functions to interact with Digital Ocean API
+  
 
