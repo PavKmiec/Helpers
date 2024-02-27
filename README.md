@@ -20,6 +20,10 @@ Folders:
 - [qr-code](https://github.com/PavKmiec/Helpers/tree/main/qr-code):
 
   Python QR-code generator.
+
+- [civitai-dl](https://github.com/pablo-01/Helpers/tree/main/civitai-dl):
+
+  Python script to download images from civitai.com
   
 - [digital-ocean-automation](https://github.com/PavKmiec/Helpers/tree/main/digital_ocean_automation):
   
